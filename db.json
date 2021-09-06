@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "judul": "Katawaena fofo si hombo fondrege alaŵa ba mbanua" },
+    { "id": 2, "judul": "Oroma muhombo oya katawaena na alu mbanua" },
+    { "id": 3, "judul": "I'ila faki katawaena, ba hiza lö i'ila ma'iki" }
+  ],
+  "komentar": [
+    { "id": 1, "ösi": "Fondrege alaŵa muhombo? Fatua lö na sa u'ila, lö faduhu dödögu", "postId": 1 },
+    { "id": 2, "ösi": "Lö ni'ila hörögu niha Korea. Hadia lö niha Korea ba gulidanö?", "postId": 1 }
+  ],
+  "profil": {
+    "töi": "onomanu"
+  }
+}
+
