@@ -1,144 +1,282 @@
 {
-"photos": [
-{
-"albumId": 1,
-"id": 1,
-"title": "Hulö la'eŵa dalu nidanö, ifuli fahalö-halö",
-"url": "https://i.pinimg.com/originals/0c/d8/2b/0cd82b1a460cd900851f72db24252ac4.jpg",
-"thumbnailUrl": "https://i.pinimg.com/originals/0c/d8/2b/0cd82b1a460cd900851f72db24252ac4.jpg"
-},
-{
-"albumId": 1,
-"id": 2,
-"title": "Hulö mate manu ndrawa, möi horö zokata-kata.",
-"url": "https://i.pinimg.com/originals/94/e9/99/94e999e3208085b49135d71eef0c1ea4.jpg",
-"thumbnailUrl": "https://i.pinimg.com/originals/94/e9/99/94e999e3208085b49135d71eef0c1ea4.jpg"
-},
-{
-"albumId": 1,
-"id": 3,
-"title": "Aramba Luo Mewöna aramba Luo Holi, lahole-hole wamözi fategaölö-gaölö li.",
-"url": "http://www.visitniasisland.com/wp-content/uploads/2014/09/Rice-farmer-3.jpg",
-"thumbnailUrl": "http://www.visitniasisland.com/wp-content/uploads/2014/09/Rice-farmer-3.jpg"
-},
-{
-"albumId": 1,
-"id": 4,
-"title": "Kauko ba hili, kauko ba ndraso, öfaolo göi ndra'ugö, ba ufaolo göi ndra'o.",
-"url": "http://www.visitniasisland.com/wp-content/uploads/2016/04/Megalith-Nias.jpg",
-"thumbnailUrl": "http://www.visitniasisland.com/wp-content/uploads/2016/04/Megalith-Nias.jpg"
-},
-{
-"albumId": 1,
-"id": 5,
-"title": "Sanörö tundraha, sanörö owo. Adölö'ö gamuri, olembai zangorifi.",
-"url": "http://www.visitniasisland.com/wp-content/uploads/2016/04/Becak-gunungsitoli-nias.jpg",
-"thumbnailUrl": "http://www.visitniasisland.com/wp-content/uploads/2016/04/Becak-gunungsitoli-nias.jpg"
-},
-{
-"albumId": 1,
-"id": 6,
-"title": "Hönö mböwö no awai, ba hönö mböwö no tosai.",
-"url": "http://www.visitniasisland.com/wp-content/uploads/2016/04/Lazara-dragon-south-nias-w.jpg",
-"thumbnailUrl": "http://www.visitniasisland.com/wp-content/uploads/2016/04/Lazara-dragon-south-nias-w.jpg"
-},
-{
-"albumId": 1,
-"id": 7,
-"title": "Ligi-ligi siliŵi, fa lö tofesu mbagi, hese-hese nazese, fa lö tofesu gahe.",
-"url": "https://www.visitniasisland.com/wp-content/uploads/2016/04/6-Nias-Island-culture.jpg",
-"thumbnailUrl": "https://www.visitniasisland.com/wp-content/uploads/2016/04/6-Nias-Island-culture.jpg"
-},
-{
-"albumId": 1,
-"id": 8,
-"title": "Belu gia belu dugala belu gia belu damo, da'ö sibai zomasido sagalio mamazibo.",
-"url": "http://www.visitniasisland.com/wp-content/uploads/2016/03/Nias-traditional-welcome-ceremony.jpg",
-"thumbnailUrl": "http://www.visitniasisland.com/wp-content/uploads/2016/03/Nias-traditional-welcome-ceremony.jpg"
-},
-{
-"albumId": 1,
-"id": 9,
-"title": "Bulu mbala hili bulu mbala ndraso, bali-bali ba lelau he zami he zafeto.",
-"url": "https://www.visitniasisland.com/wp-content/uploads/2016/04/5-Nias-Island-culture.jpg",
-"thumbnailUrl": "https://www.visitniasisland.com/wp-content/uploads/2016/04/5-Nias-Island-culture.jpg"
-},
-{
-"albumId": 1,
-"id": 10,
-"title": "Hulö famanö-manö ci'a-ci'a hulö fahuhuo mbayakomo, lö adudu ba lö aroro",
-"url": "http://www.visitniasisland.com/wp-content/uploads/2014/09/School-kids.jpg",
-"thumbnailUrl": "http://www.visitniasisland.com/wp-content/uploads/2014/09/School-kids.jpg"
+   "photos":[
+      {
+         "albumId":1,
+         "id":1,
+         "title":"Hulö la'eŵa dalu nidanö, ifuli fahalö-halö",
+         "url":"https://i.pinimg.com/originals/0c/d8/2b/0cd82b1a460cd900851f72db24252ac4.jpg",
+         "thumbnailUrl":"https://i.pinimg.com/originals/0c/d8/2b/0cd82b1a460cd900851f72db24252ac4.jpg"
+      },
+      {
+         "albumId":1,
+         "id":2,
+         "title":"Hulö mate manu ndrawa, möi horö zokata-kata.",
+         "url":"https://i.pinimg.com/originals/94/e9/99/94e999e3208085b49135d71eef0c1ea4.jpg",
+         "thumbnailUrl":"https://i.pinimg.com/originals/94/e9/99/94e999e3208085b49135d71eef0c1ea4.jpg"
+      },
+      {
+         "albumId":1,
+         "id":3,
+         "title":"Aramba Luo Mewöna aramba Luo Holi, lahole-hole wamözi fategaölö-gaölö li.",
+         "url":"http://www.visitniasisland.com/wp-content/uploads/2014/09/Rice-farmer-3.jpg",
+         "thumbnailUrl":"http://www.visitniasisland.com/wp-content/uploads/2014/09/Rice-farmer-3.jpg"
+      },
+      {
+         "albumId":1,
+         "id":4,
+         "title":"Kauko ba hili, kauko ba ndraso, öfaolo göi ndra'ugö, ba ufaolo göi ndra'o.",
+         "url":"http://www.visitniasisland.com/wp-content/uploads/2016/04/Megalith-Nias.jpg",
+         "thumbnailUrl":"http://www.visitniasisland.com/wp-content/uploads/2016/04/Megalith-Nias.jpg"
+      },
+      {
+         "albumId":1,
+         "id":5,
+         "title":"Sanörö tundraha, sanörö owo. Adölö'ö gamuri, olembai zangorifi.",
+         "url":"http://www.visitniasisland.com/wp-content/uploads/2016/04/Becak-gunungsitoli-nias.jpg",
+         "thumbnailUrl":"http://www.visitniasisland.com/wp-content/uploads/2016/04/Becak-gunungsitoli-nias.jpg"
+      },
+      {
+         "albumId":1,
+         "id":6,
+         "title":"Hönö mböwö no awai, ba hönö mböwö no tosai.",
+         "url":"http://www.visitniasisland.com/wp-content/uploads/2016/04/Lazara-dragon-south-nias-w.jpg",
+         "thumbnailUrl":"http://www.visitniasisland.com/wp-content/uploads/2016/04/Lazara-dragon-south-nias-w.jpg"
+      },
+      {
+         "albumId":1,
+         "id":7,
+         "title":"Ligi-ligi siliŵi, fa lö tofesu mbagi, hese-hese nazese, fa lö tofesu gahe.",
+         "url":"https://www.visitniasisland.com/wp-content/uploads/2016/04/6-Nias-Island-culture.jpg",
+         "thumbnailUrl":"https://www.visitniasisland.com/wp-content/uploads/2016/04/6-Nias-Island-culture.jpg"
+      },
+      {
+         "albumId":1,
+         "id":8,
+         "title":"Belu gia belu dugala belu gia belu damo, da'ö sibai zomasido sagalio mamazibo.",
+         "url":"http://www.visitniasisland.com/wp-content/uploads/2016/03/Nias-traditional-welcome-ceremony.jpg",
+         "thumbnailUrl":"http://www.visitniasisland.com/wp-content/uploads/2016/03/Nias-traditional-welcome-ceremony.jpg"
+      },
+      {
+         "albumId":1,
+         "id":9,
+         "title":"Bulu mbala hili bulu mbala ndraso, bali-bali ba lelau he zami he zafeto.",
+         "url":"https://www.visitniasisland.com/wp-content/uploads/2016/04/5-Nias-Island-culture.jpg",
+         "thumbnailUrl":"https://www.visitniasisland.com/wp-content/uploads/2016/04/5-Nias-Island-culture.jpg"
+      },
+      {
+         "albumId":1,
+         "id":10,
+         "title":"Hulö famanö-manö ci'a-ci'a hulö fahuhuo mbayakomo, lö adudu ba lö aroro",
+         "url":"http://www.visitniasisland.com/wp-content/uploads/2014/09/School-kids.jpg",
+         "thumbnailUrl":"http://www.visitniasisland.com/wp-content/uploads/2014/09/School-kids.jpg"
+      }
+   ],
+   "posts":[
+      {
+         "userId":1,
+         "id":1,
+         "title":"Hulö la'eŵa dalu nidanö, ifuli fahalö-halö",
+         "body":"Ba me manöi ndraono andrö, ba tobali sabölö ba wealu Gezau, niha ba ndru'u, ba Yakobo, ba niha sahono-hono, si iagö ose. Ba Iza'aki, ba i'omasi'ö Gezau, ami khönia gahulua andrö; ba Rebeka, ba i'omasi'ö Yakobo."
+      },
+      {
+         "userId":1,
+         "id":2,
+         "title":"Hulö mate manu ndrawa, möi horö zokata-kata.",
+         "body":"Ba samuza ma'ökhö, ba ituge'ö gönia Yakobo. Ba so Gezau, olofo sibai, i'otarai danö si mate. Ba imane Ezau khö Yakobo: Ta'i-ta'i be'e ögu zoyo andrö, soyo andrö we! solofo sibai sa'ae ndra'o. Andrö wa labe'e töinia Gedomo (Soyo)."
+      },
+      {
+         "userId":1,
+         "id":3,
+         "title":"Aramba Luo Mewöna aramba Luo Holi, lahole-hole wamözi fategaölö-gaölö li.",
+         "body":"Ba imane Yakobo: Amawa khögu wa'asia'amö ua! Ba imane Ezau: A! mate sa atö ndra'o dania, ba ha uwai wa'asia'a andrö! Imane Yakobo: Ba ae ba hölu ua khögu! Ba möi ba hölu ia khönia ba tobali i'amawa khö Yakobo wa'asia'ania andrö. Ba ibe'e khö Gezau roti ba samösa mö'ö harita side'ide; ba manga ia, ba ifazaŵa ia, ilau mofanö. Ba tobali i'ositengagö wa'asia'ania Ezau."
+      },
+      {
+         "userId":1,
+         "id":4,
+         "title":"Kauko ba hili, kauko ba ndraso, öfaolo göi ndra'ugö, ba ufaolo göi ndra'o.",
+         "body":"Ba da'ö wa'anau noso Gaberahamo, si so ia ba guli danö: 175 fakhe. Ba aetu noso Gaberahamo, mate ia ba wa'atua omasiö, no atua ia ba no aföli fa'auri; ba te'orudugö ia ba niwara. Ba lako'o ia ononia Iza'aki ba Sima'eli ba dögi narö hili Makhefela andrö, ba mbenua Ndraono Kheti andrö, Eferono, ono Zohara, ba gamaudu Mamere."
+      },
+      {
+         "userId":1,
+         "id":5,
+         "title":"Sanörö tundraha, sanörö owo. Adölö'ö gamuri, olembai zangorifi.",
+         "body":"Ba mbenua andrö, ni'öli Gaberahamo ba Ndraono Kheti: ba da'ö teko'o Gaberahamo ba fo'omonia Sara. Ba me no mate Gaberahamo, ba ifahowu'ö nononia Iza'aki Lowalangi. Ba ba ngai mba'a zauri, samaigi ya'odo soso Giza'aki."
+      },
+      {
+         "userId":1,
+         "id":6,
+         "title":"Hönö mböwö no awai, ba hönö mböwö no tosai.",
+         "body":"Ba da'ö khö Giza'aki, ono Gaberahamo: Ono Gaberahamo Giza'aki. Ba öfa wulu fakhe Giza'aki, me ihalö Rebeka andrö, ono Ndrawa Garamo andrö, Betueli, ba Mezofotamia, akhi Ndrawa Garamo andrö, Labano. Ba mangandrö Giza'aki khö Yehowa ba khö wo'omonia andrö, me no si lö ono. Ba ifondrondrongo wangandrönia Yehowa, ba manabina wo'omonia Rebeka."
+      },
+      {
+         "userId":1,
+         "id":7,
+         "title":"Ligi-ligi siliŵi, fa lö tofesu mbagi, hese-hese nazese, fa lö tofesu gahe.",
+         "body":"Ba fagobi-gobi nononia ba dalunia; ba imane: Na si manö, ba hana wa aurido? Ba möi ia musofu khö Yehowa. Ba imane khönia Yehowa: Dombua soi ba dalumö; dombua mado zi tumbu khöu dania, ba wasuwöta. Ba abölö dania mado si sambua, ba sawuyu zi akhi dania zi a'a."
+      },
+      {
+         "userId":1,
+         "id":8,
+         "title":"Belu gia belu dugala belu gia belu damo, da'ö sibai zomasido sagalio mamazibo.",
+         "body":"Ba me irugi baŵania ba wo'ono, ba hiza zi faero ba dalunia. Ba böla zi a'a, no oyo-oyo, hulö mbaru luo sobubu, ma'asageu. Andrö wa labe'e töinia Gezau. Ba böla göi nakhinia andrö, ba no igogohe mbörö sisi Gezau tangania; andrö wa labe'e töinia Yakobo. Ba no önö ngafulu fakhe Giza'aki, me tumbu ira."
+      },
+      {
+         "userId":1,
+         "id":9,
+         "title":"Bulu mbala hili bulu mbala ndraso, bali-bali ba lelau he zami he zafeto.",
+         "body":"Yehowa andrö, Lowalangi mbanua si yaŵa, sangeheta ya'o mege ba nomo namagu ba ba mbanuama, si no muhede khögu, si no fahölu khögu, wanguma'ö: Ba ma'uwumö ube'e danö andre — da'ö zamowaö-waö dania fönau mala'ikania, ena'ö ba da'ö öhalö ndra alawe khö nonogu. Ba na lö edöna ndra alawe andrö, i'o'ö ndra'ugö, ba aefa ndra'ugö ba wahölusa andre; ba lö'ö manö tola ö'ohe mangawuli ba da'ö nonogu! Awena itufa tangania narö zola Gaberahamo, möi ia ba hölu khönia, i'o'ö niŵa'önia."
+      },
+      {
+         "userId":1,
+         "id":10,
+         "title":"Hulö famanö-manö ci'a-ci'a hulö fahuhuo mbayakomo, lö adudu ba lö aroro",
+         "body":"Ba möi ia mitou ba mba'a, ifo'ösi nasoa ba ifuli ia miyaŵa. Ba fagohi zawuyu no mege, wamaondragö ya'ia, imane: Da'ubadu ma'ifu nidanö ba nasoa khöu. Ba imane: Badu, Tua! Ba i'aliogö i'oro'ö nasoa, ifabadugö khönia. Ba me no abönö ifabadugö khönia, ba imane: Da'uta'u-ta'u göi ö gondra khöu, irege abuso ira."
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"Ba imane na: No fahöna khöma ndru'u ba ö gondra, ba ebolo naha, ba wemörö. Ba ifaöndrö ia niha andrö, mangalulu ia khö Yehowa, imane: Nisuno Yehowa, Lowalangi zokhö ya'o andrö, Lowalangi Gaberahamo, si lö mangambösi fa'ebua dödönia, awö wa lö faröi khö zokhö ya'o.",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"Lala da'e, ba ni'oroma'ö Yehowa khögu, lala ba nomo dalifusö zokhö ya'o! Ba fagohi nono alawe andrö, i'ombakha'ö khö ninania zi no falukha ia.",
+         "postId":1
+      }
+   ],
+   "amaedola":[
+      {
+         "id":0,
+         "teks":"Ami li moroi ba gö.",
+         "terjemahan":"Perkataan lebih lezat dari pada makanan.",
+         "makna":"Perkataan lebih lezat dari pada makanan. Oleh sebab itu, menyapa siapa saja dengan kata-kata yang baik dan sopan - terutama kerabat - merupakan nilai yang sangat tinggi dan terhormat."
+      },
+      {
+         "id":1,
+         "teks":"Andrö alua gowasa, andrö alua dome, me no ha sara sa dödöra ndramatua ndra'alawe.",
+         "terjemahan":"Pesta terlaksana dan tamu berdatangan, karena seorang laki-laki dan seorang perempuan telah menyatakan satu hati.",
+         "makna":"Suatu pesta akan terlaksana dengan baik kalau ada kesepakatan dan kerjasama antara laki-laki dan perempuan. Pertemuan dan huo-huo (percakapan) sangat sering terjadi dalam persaudaraan orang Nias."
+      },
+      {
+         "id":2,
+         "teks":"Andrö wa so zalaŵa, andrö wa so gere, sangeheta so fede-fede, samoe sifahole-hole.",
+         "terjemahan":"Fungsi seorang pemimpin dan seorang imam adalah membersihkan yang buruk dan meluruskan yang bengkok.",
+         "makna":"Fungsi para pemimpin adalah untuk meluruskan atau memberitahukan bila ada suatu kekeliruan sehingga menjadi lebih baik."
+      },
+      {
+         "id":3,
+         "teks":"Aoha noro nilului wahea, aoha noro nilului waoso, alisi tafadaya-daya, hulu tafewolo-wolo.",
+         "terjemahan":"Beban yang digotong bersama menjadi ringan, beban yang diangkat bersama menjadi ringan, kita menunjang dengan bahu, kita melebarkan punggung.",
+         "makna":"Pekerjaan dan beban akan menjadi mudah dan ringan kalau dikerjakan bersama, gotong-royong."
+      },
+      {
+         "id":4,
+         "teks":"Atua-tua ae garawi, ifali-fali'ö ba mbaginia monö si siŵa wenali.",
+         "terjemahan":"Betapa bijak seekor musang, dia melilitkan di lehernya sembilan tali dari tumbuhan.",
+         "makna":"Seseorang yang melakukan sesuatu untuk mencelakakan diri sendiri."
+      },
+      {
+         "id":5,
+         "teks":"Böi bini'ö gafore, böi bini'ö lauru, elungu zi bohou tumbu.",
+         "terjemahan":"Jangan menyembunyikan afore, jangan menyembunyikan lauru, nanti generasi muda tersesat.",
+         "makna":"Janganlah menyembunyikan afore (alat ukur panjang) juga lauru (alat ukur volume) karena bisa menyesatkan generasi muda. Hal ini dapat juga berarti jangan menjadi orang pelit membagikan ilmu supaya orang lain pun tercerahkan."
+      },
+      {
+         "id":6,
+         "teks":"Bulu geu bulu lahia, sifalali-lali hia, bulu geu bulu lambasi, si falali fa'omasi.",
+         "terjemahan":"Daun tumbuhan daun jahe, berganti-ganti pucuknya. Daun tumbuhan daun lambasi, yang saling berganti kasih.",
+         "makna":"Saling membantu, saling mengasihi, saling melengkapi."
+      },
+      {
+         "id":7,
+         "teks":"He ana'a he firö, ba lö tedou wa'a'usö na lö itörö galitö.",
+         "terjemahan":"Baik emas maupun perak, warna kuningnya tidak akan bertambah kalau tidak melalui api.",
+         "makna":"Kualitas seseorang atau sesuatu hanya akan terbentuk dan terlihat melalui kerja keras, keseriusan, pembinaan yang tak kenal lelah, lewat ujian berat yang kadang-kadang menyakitkan."
+      },
+      {
+         "id":8,
+         "teks":"Hönö mböwö no awai, hönö mböwö no tosai.",
+         "terjemahan":"Ribuan böwö selesai, ribuan böwö masih belum selesai.",
+         "makna":"Ada begitu banyak böwö yang sudah lunas, namun masih ada begitu banyak yang masih belum beres. Selalu saja ada kewajiban adat yang harus dijalankan selama hidup."
+      },
+      {
+         "id":9,
+         "teks":"Lakhömi sebua wahasara dödö.",
+         "terjemahan":"Seia sekata merupakan kehormatan besar.",
+         "makna":"Bekerjasama merupakan kemuliaan besar."
+      },
+      {
+         "id":10,
+         "teks":"Lö dozi salaŵa, lö dozi ere, zame ba nonombarunia gasi hambae sino mate. Lö dozi salaŵa lö dozi ere, zamesu hörö hambae ba dalu zi gete-gete.",
+         "terjemahan":"Tidak setiap pemimpin, tidak setiap imam, yang memasukkan di kantongnya cakar kepiting yang mati. Tidak setiap pemimpin, tidak setiap imam, yang mengikat mata kepiting di tengah titian.",
+         "makna":"Tidak semua pemimpin menyimpan kebusukan atau hal-hal yang tidak perlu di dalam kantong bajunya. Hanya pemimpin bodoh yang mempermasalahkan hal-hal yang tidak perlu."
+      },
+      {
+         "id":11,
+         "teks":"Na hasara zöndra ba na hasara li, ta'olikhe gawöni ba ta'olae gulinasi.",
+         "terjemahan":"Bila kita sepakat dan seia sekata, kita bisa memotong pohon awöni menjadi lidi dan membuat permukaan laut menjadi alas.",
+         "makna":"Kalau kita sehati dan sejiwa, maka rintangan sebesar apa pun dapat diatasi dengan mudah."
+      },
+      {
+         "id":12,
+         "teks":"Omböila dotoa omböila nakhe, be ba danga zonekhe afu tobali afore.",
+         "terjemahan":"Potongan kayu totoa dan potongan kayu akhe, serahkanlah kepada ahlinya sehingga bisa menjadi afore (alat ukur).",
+         "makna":"Hal-hal biasa bisa menjadi lebih bernilai dan berkualitas bila ditangani oleh orang-orang berbakat dan cerdas."
+      },
+      {
+         "id":13,
+         "teks":"Sambua nali göda böra, sara göda ono zökha, böi tawuwu böi taböda, me faoma nilau dödöda.",
+         "terjemahan":"Satu liter beras kita masak, seekor anak rusa lauknya, jangan menarik mundur tangan, karena merupakan hal yang sama-sama kita inginkan.",
+         "makna":"Kalau ada sesuatu yang sudah kita sepakati, maka konsistenlah melaksanakannya bersama-sama. Jangan mundur."
+      },
+      {
+         "id":14,
+         "teks":"Sanörö idanö ba abasö.",
+         "terjemahan":"Orang yang melewati air akan basah.",
+         "makna":"Yang melewati sungai pasti basah. Lebih luas diartikan bahwa sangat lumrah bila seseorang harus berutang karena menyelenggarakan suatu pesta besar, seperti pernikahan."
+      },
+      {
+         "id":15,
+         "teks":"Sara nidanö, sara ugu-ugunia.",
+         "terjemahan":"Lain sungai, lain gemuruh airnya.",
+         "makna":"Setiap sungai memiliki bunyi yang berbeda, setiap budaya memiliki keunikannya."
+      },
+      {
+         "id":16,
+         "teks":"Silu sotöra sumbölö afasi, ha niha sowöhö zi lö möi ba zi sökhi.",
+         "terjemahan":"Silu sotöra sumbölö afasi, hanya orang gila yang tidak mau menjadi baik.",
+         "makna":"Hanya orang tidak waras yang tidak mau menjadi baik."
+      },
+      {
+         "id":17,
+         "teks":"Sirahi mbanua, sirahi dödö lala, si mate nihundra-hundra, manö niha silumana.",
+         "terjemahan":"Rumput di kebun, rumput di tengah jalan, mati diinjak-injak, demikianlah orang miskin.",
+         "makna":"Orang miskin selalu menjadi korban."
+      },
+      {
+         "id":18,
+         "teks":"Sökhi mate moroi na aila.",
+         "terjemahan":"Lebih baik mati daripada malu.",
+         "makna":"Lebih baik mati dari pada malu. Oleh karena prinsip ini, maka orang Nias berusaha keras untuk tidak pernah dipermalukan oleh siapa pun."
+      },
+      {
+         "id":19,
+         "teks":"Sondröni eu sondröni gasö, lö manö sondröni furi, oi solulugö manö.",
+         "terjemahan":"Mereka yang menarik kayu, yang menarik potongan kayu, tak ada yang menarik ke belakang, semua mendorong ke depan.",
+         "makna":"Kalau ada pekerjaan bersama, maka arahkanlah kepada suatu tujuan supaya berhasil: jangan masing-masing menurut keinginannya karena tidak akan jadi apa-apa, tidak akan maju."
+      },
+      {
+         "id":20,
+         "teks":"Talimbo gae talimbo göda, talimbo nihalö nawöda, na lö fagölö-gölö duhe göda, mo'uli ma'ae guli höröda wamaigi-maigi awöda; ba na fagölö-gölö duhe göda, ba timba lae guli höröda.",
+         "terjemahan":"Jamur pisang bagian kita, jamur yang dikumpulkan sesama kita, bila makanan kita tidak sama, maka kulit mata pun tebal; namun kalau makanan kita sama, maka kulit mata kita pun lentur.",
+         "makna":"Kalau makanan kita tidak sama, maka kita akan curiga kepada orang lain: namun bila makanan kita sama, maka kita akan senang melihat orang lain. Oleh sebab itu, baiklah setiap orang mengusahakan kesejahteraan bersama supaya sama-sama bahagia dan tidak saling mencurigai."
+      },
+      {
+         "id":21,
+         "teks":"Tiu-tiu mbowo nohi, nazese mbowo mbalari; muhombo-hombo lö afi, manuge lö bagi mbisi.",
+         "terjemahan":"Burung yang hinggap di bunga kelapa, burung yang hinggap di bunga balari; terbang tanpa sayap, bertengger tanpa tulang kering.",
+         "makna":"Seseorang yang memiliki cita-cita tinggi, namun tidak didukung oleh kekuatan fisik atau kemampuan material tertentu."
+      }
+   ]
 }
-],
-"posts": [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "Hulö la'eŵa dalu nidanö, ifuli fahalö-halö",
-    "body": "Ba me manöi ndraono andrö, ba tobali sabölö ba wealu Gezau, niha ba ndru'u, ba Yakobo, ba niha sahono-hono, si iagö ose. Ba Iza'aki, ba i'omasi'ö Gezau, ami khönia gahulua andrö; ba Rebeka, ba i'omasi'ö Yakobo."
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Hulö mate manu ndrawa, möi horö zokata-kata.",
-    "body": "Ba samuza ma'ökhö, ba ituge'ö gönia Yakobo. Ba so Gezau, olofo sibai, i'otarai danö si mate. Ba imane Ezau khö Yakobo: Ta'i-ta'i be'e ögu zoyo andrö, soyo andrö we! solofo sibai sa'ae ndra'o. Andrö wa labe'e töinia Gedomo (Soyo)."
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Aramba Luo Mewöna aramba Luo Holi, lahole-hole wamözi fategaölö-gaölö li.",
-    "body": "Ba imane Yakobo: Amawa khögu wa'asia'amö ua! Ba imane Ezau: A! mate sa atö ndra'o dania, ba ha uwai wa'asia'a andrö! Imane Yakobo: Ba ae ba hölu ua khögu! Ba möi ba hölu ia khönia ba tobali i'amawa khö Yakobo wa'asia'ania andrö. Ba ibe'e khö Gezau roti ba samösa mö'ö harita side'ide; ba manga ia, ba ifazaŵa ia, ilau mofanö. Ba tobali i'ositengagö wa'asia'ania Ezau."
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "Kauko ba hili, kauko ba ndraso, öfaolo göi ndra'ugö, ba ufaolo göi ndra'o.",
-    "body": "Ba da'ö wa'anau noso Gaberahamo, si so ia ba guli danö: 175 fakhe. Ba aetu noso Gaberahamo, mate ia ba wa'atua omasiö, no atua ia ba no aföli fa'auri; ba te'orudugö ia ba niwara. Ba lako'o ia ononia Iza'aki ba Sima'eli ba dögi narö hili Makhefela andrö, ba mbenua Ndraono Kheti andrö, Eferono, ono Zohara, ba gamaudu Mamere."
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "Sanörö tundraha, sanörö owo. Adölö'ö gamuri, olembai zangorifi.",
-    "body": "Ba mbenua andrö, ni'öli Gaberahamo ba Ndraono Kheti: ba da'ö teko'o Gaberahamo ba fo'omonia Sara. Ba me no mate Gaberahamo, ba ifahowu'ö nononia Iza'aki Lowalangi. Ba ba ngai mba'a zauri, samaigi ya'odo soso Giza'aki."
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "Hönö mböwö no awai, ba hönö mböwö no tosai.",
-    "body": "Ba da'ö khö Giza'aki, ono Gaberahamo: Ono Gaberahamo Giza'aki. Ba öfa wulu fakhe Giza'aki, me ihalö Rebeka andrö, ono Ndrawa Garamo andrö, Betueli, ba Mezofotamia, akhi Ndrawa Garamo andrö, Labano. Ba mangandrö Giza'aki khö Yehowa ba khö wo'omonia andrö, me no si lö ono. Ba ifondrondrongo wangandrönia Yehowa, ba manabina wo'omonia Rebeka."
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "Ligi-ligi siliŵi, fa lö tofesu mbagi, hese-hese nazese, fa lö tofesu gahe.",
-    "body": "Ba fagobi-gobi nononia ba dalunia; ba imane: Na si manö, ba hana wa aurido? Ba möi ia musofu khö Yehowa. Ba imane khönia Yehowa: Dombua soi ba dalumö; dombua mado zi tumbu khöu dania, ba wasuwöta. Ba abölö dania mado si sambua, ba sawuyu zi akhi dania zi a'a."
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "Belu gia belu dugala belu gia belu damo, da'ö sibai zomasido sagalio mamazibo.",
-    "body": "Ba me irugi baŵania ba wo'ono, ba hiza zi faero ba dalunia. Ba böla zi a'a, no oyo-oyo, hulö mbaru luo sobubu, ma'asageu. Andrö wa labe'e töinia Gezau. Ba böla göi nakhinia andrö, ba no igogohe mbörö sisi Gezau tangania; andrö wa labe'e töinia Yakobo. Ba no önö ngafulu fakhe Giza'aki, me tumbu ira."
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "Bulu mbala hili bulu mbala ndraso, bali-bali ba lelau he zami he zafeto.",
-    "body": "Yehowa andrö, Lowalangi mbanua si yaŵa, sangeheta ya'o mege ba nomo namagu ba ba mbanuama, si no muhede khögu, si no fahölu khögu, wanguma'ö: Ba ma'uwumö ube'e danö andre — da'ö zamowaö-waö dania fönau mala'ikania, ena'ö ba da'ö öhalö ndra alawe khö nonogu. Ba na lö edöna ndra alawe andrö, i'o'ö ndra'ugö, ba aefa ndra'ugö ba wahölusa andre; ba lö'ö manö tola ö'ohe mangawuli ba da'ö nonogu! Awena itufa tangania narö zola Gaberahamo, möi ia ba hölu khönia, i'o'ö niŵa'önia."
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "Hulö famanö-manö ci'a-ci'a hulö fahuhuo mbayakomo, lö adudu ba lö aroro",
-    "body": "Ba möi ia mitou ba mba'a, ifo'ösi nasoa ba ifuli ia miyaŵa. Ba fagohi zawuyu no mege, wamaondragö ya'ia, imane: Da'ubadu ma'ifu nidanö ba nasoa khöu. Ba imane: Badu, Tua! Ba i'aliogö i'oro'ö nasoa, ifabadugö khönia. Ba me no abönö ifabadugö khönia, ba imane: Da'uta'u-ta'u göi ö gondra khöu, irege abuso ira."
-  }
-],
-"comments": [
-    { "id": 1, "body": "Ba imane na: No fahöna khöma ndru'u ba ö gondra, ba ebolo naha, ba wemörö. Ba ifaöndrö ia niha andrö, mangalulu ia khö Yehowa, imane: Nisuno Yehowa, Lowalangi zokhö ya'o andrö, Lowalangi Gaberahamo, si lö mangambösi fa'ebua dödönia, awö wa lö faröi khö zokhö ya'o.", "postId": 1 },
-    { "id": 2, "body": "Lala da'e, ba ni'oroma'ö Yehowa khögu, lala ba nomo dalifusö zokhö ya'o! Ba fagohi nono alawe andrö, i'ombakha'ö khö ninania zi no falukha ia.", "postId": 1 }
-  ],
-"profile": {
-    "name": "katawaena"
-  }
-}
-
